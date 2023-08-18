@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-namespace TYFramework.Core.Singleton
+namespace TYFramework.Editor.Basic.DesignPattern.Creational.Singleton
 {
     /// <summary>
     /// 静态类：MonoBehaviour类的单例

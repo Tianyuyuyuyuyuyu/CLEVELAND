@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TYFramework.Core.Singleton
+namespace TYFramework.Editor.Basic.DesignPattern.Creational.Singleton
 {
     /// <summary>
     /// 如果跳转到新的场景里已经有了实例，则删除已有示例，再创建新的实例

@@ -2,7 +2,7 @@
 using System.Reflection;
 using UnityEngine;
 
-namespace TYFramework.Core.Singleton
+namespace TYFramework.Editor.Basic.DesignPattern.Creational.Singleton
 {
     /// <summary>
     /// 普通单例创建类

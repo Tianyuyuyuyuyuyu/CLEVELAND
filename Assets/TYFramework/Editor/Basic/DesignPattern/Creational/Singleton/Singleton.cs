@@ -1,4 +1,4 @@
-﻿namespace TYFramework.Core.Singleton
+﻿namespace TYFramework.Editor.Basic.DesignPattern.Creational.Singleton
 {
     /// <summary>
     /// 普通类的单例

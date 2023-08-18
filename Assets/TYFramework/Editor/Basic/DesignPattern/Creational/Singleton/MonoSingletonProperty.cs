@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TYFramework.Core.Singleton
+namespace TYFramework.Editor.Basic.DesignPattern.Creational.Singleton
 {
     /// <summary>
     /// 继承Mono的属性单例

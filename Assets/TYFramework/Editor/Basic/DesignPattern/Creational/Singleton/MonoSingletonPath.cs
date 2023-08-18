@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TYFramework.Core.Singleton
+namespace TYFramework.Editor.Basic.DesignPattern.Creational.Singleton
 {
     /// <summary>
     /// MonoSingleton路径

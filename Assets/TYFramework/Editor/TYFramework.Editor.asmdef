@@ -1,5 +1,5 @@
 {
-    "name": "TYDesinPattern",
+    "name": "TYFramework.Editor",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [
