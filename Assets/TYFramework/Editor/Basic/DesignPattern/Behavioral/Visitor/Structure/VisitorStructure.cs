@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using UnityEngine;
 
-namespace TYFramework.Editor.Basic.DesignPattern.Behavioral.Visitor
+namespace TYFramework.Editor.Basic.DesignPattern.Behavioral.Visitor.Structure
 {
     public class VisitorStructure : MonoBehaviour
     {
