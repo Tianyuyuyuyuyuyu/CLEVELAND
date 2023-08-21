@@ -247,15 +247,12 @@ namespace TYFramework.Editor.Basic.DesignPattern.Behavioral.State.Example1
         }
 
         // Properties
-        public double Balance
-        {
-            get { return _state.Balance; }
-        }
+        public double Balance => _state.Balance;
 
         public State State
         {
-            get { return _state; }
-            set { _state = value; }
+            get => _state;
+            set => _state = value;
         }
 
         public void Deposit(double amount)
